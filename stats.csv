@@ -1,0 +1,202 @@
+Name	Type1	Type2	Atk	Def	Sta	Quick	Type_Q	Power1	Energy1	Time1	Stab1	Charge	Type_C	Power2	Energy2	Time2	Stab2
+Venusaur	Grass	Poison	197	198	160	Vine Whip	GRASS	7	6	0.6	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Venusaur	Grass	Poison	197	198	160	Razor Leaf	GRASS	13	7	1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Venusaur	Grass	Poison	197	198	160	Vine Whip	GRASS	7	6	0.6	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Venusaur	Grass	Poison	197	198	160	Razor Leaf	GRASS	13	7	1	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Venusaur	Grass	Poison	197	198	160	Vine Whip	GRASS	7	6	0.6	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Venusaur	Grass	Poison	197	198	160	Razor Leaf	GRASS	13	7	1	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Charizard	Fire	Flying	222	177	156	Fire Spin	FIRE	14	10	1.1	1.25	Overheat	FIRE	160	100	4	1.25
+Charizard	Fire	Flying	222	177	156	Air Slash	FLYING	14	10	1.2	1.25	Overheat	FIRE	160	100	4	1.25
+Charizard	Fire	Flying	222	177	156	Fire Spin	FIRE	14	10	1.1	1.25	Fire Blast	FIRE	140	100	4.2	1.25
+Charizard	Fire	Flying	222	177	156	Fire Spin	FIRE	14	10	1.1	1.25	Flamethrower	FIRE	70	50	2.2	1.25
+Charizard	Fire	Flying	222	177	156	Air Slash	FLYING	14	10	1.2	1.25	Fire Blast	FIRE	140	100	4.2	1.25
+Charizard	Fire	Flying	222	177	156	Air Slash	FLYING	14	10	1.2	1.25	Flamethrower	FIRE	70	50	2.2	1.25
+Charizard	Fire	Flying	222	177	156	Fire Spin	FIRE	14	10	1.1	1.25	Dragon Claw	DRAGON	50	33	1.7	1
+Charizard	Fire	Flying	222	177	156	Air Slash	FLYING	14	10	1.2	1.25	Dragon Claw	DRAGON	50	33	1.7	1
+Blastoise	Water	None	171	210	158	Water Gun	WATER	5	5	0.5	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Blastoise	Water	None	171	210	158	Bite	DARK	6	4	0.5	1	Hydro Pump	WATER	130	100	3.3	1.25
+Blastoise	Water	None	171	210	158	Water Gun	WATER	5	5	0.5	1.25	Ice Beam	ICE	90	50	3.3	1
+Blastoise	Water	None	171	210	158	Water Gun	WATER	5	5	0.5	1.25	Flash Cannon	STEEL	100	100	2.7	1
+Blastoise	Water	None	171	210	158	Bite	DARK	6	4	0.5	1	Ice Beam	ICE	90	50	3.3	1
+Blastoise	Water	None	171	210	158	Bite	DARK	6	4	0.5	1	Flash Cannon	STEEL	100	100	2.7	1
+Butterfree	Bug	Flying	150	151	120	Struggle Bug	BUG	15	15	1.5	1.25	Bug Buzz	BUG	90	50	3.7	1.25
+Butterfree	Bug	Flying	150	151	120	Confusion	PSYCHIC	20	15	1.6	1	Bug Buzz	BUG	90	50	3.7	1.25
+Butterfree	Bug	Flying	150	151	120	Struggle Bug	BUG	15	15	1.5	1.25	Signal Beam	BUG	75	50	2.9	1.25
+Butterfree	Bug	Flying	150	151	120	Confusion	PSYCHIC	20	15	1.6	1	Signal Beam	BUG	75	50	2.9	1.25
+Butterfree	Bug	Flying	150	151	120	Struggle Bug	BUG	15	15	1.5	1.25	Psychic	PSYCHIC	100	100	2.8	1
+Butterfree	Bug	Flying	150	151	120	Confusion	PSYCHIC	20	15	1.6	1	Psychic	PSYCHIC	100	100	2.8	1
+Beedrill	Bug	Poison	150	150	130	Poison Jab	POISON	10	7	0.8	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Beedrill	Bug	Poison	150	150	130	Infestation	BUG	10	14	1.1	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Beedrill	Bug	Poison	150	150	130	Poison Jab	POISON	10	7	0.8	1.25	Aerial Ace	FLYING	55	33	2.4	1
+Beedrill	Bug	Poison	150	150	130	Infestation	BUG	10	14	1.1	1.25	Aerial Ace	FLYING	55	33	2.4	1
+Beedrill	Bug	Poison	150	150	130	Poison Jab	POISON	10	7	0.8	1.25	X Scissor	WATER	50	100	4.7	1
+Beedrill	Bug	Poison	150	150	130	Infestation	BUG	10	14	1.1	1.25	X Scissor	WATER	50	100	4.7	1
+Pidgeot	Normal	Flying	163	154	166	Air Slash	FLYING	14	10	1.2	1.25	Hurricane	FLYING	110	100	2.7	1.25
+Pidgeot	Normal	Flying	163	154	166	Air Slash	FLYING	14	10	1.2	1.25	Brave Bird	FLYING	90	100	2	1.25
+Pidgeot	Normal	Flying	163	154	166	Steel Wing	STEEL	11	6	0.8	1	Hurricane	FLYING	110	100	2.7	1.25
+Pidgeot	Normal	Flying	163	154	166	Air Slash	FLYING	14	10	1.2	1.25	Aerial Ace	FLYING	55	33	2.4	1.25
+Pidgeot	Normal	Flying	163	154	166	Steel Wing	STEEL	11	6	0.8	1	Brave Bird	FLYING	90	100	2	1.25
+Pidgeot	Normal	Flying	163	154	166	Steel Wing	STEEL	11	6	0.8	1	Aerial Ace	FLYING	55	33	2.4	1.25
+Pidgeot	Normal	Flying	163	154	166	Air Slash	FLYING	14	10	1.2	1.25	Air Cutter	FLYING	60	50	2.7	1.25
+Pidgeot	Normal	Flying	163	154	166	Steel Wing	STEEL	11	6	0.8	1	Air Cutter	FLYING	60	50	2.7	1.25
+Raichu	Electric	None	189	161	120	Spark	ELECTRIC	6	9	0.7	1.25	Wild Charge	ELECTRIC	90	50	2.6	1.25
+Raichu	Electric	None	189	161	120	Volt Switch	ELECTRIC	20	25	2.3	1.25	Wild Charge	ELECTRIC	90	50	2.6	1.25
+Raichu	Electric	None	189	161	120	Spark	ELECTRIC	6	9	0.7	1.25	Thunder Punch	ELECTRIC	45	33	1.8	1.25
+Raichu	Electric	None	189	161	120	Volt Switch	ELECTRIC	20	25	2.3	1.25	Thunder Punch	ELECTRIC	45	33	1.8	1.25
+Raichu	Electric	None	189	161	120	Spark	ELECTRIC	6	9	0.7	1.25	Brick Break	FIGHT	40	33	1.6	1
+Raichu	Electric	None	189	161	120	Volt Switch	ELECTRIC	20	25	2.3	1.25	Brick Break	FIGHT	40	33	1.6	1
+Nidoqueen	Poison	Ground	163	174	180	Poison Jab	POISON	10	7	0.8	1.25	Earthquake	GROUND	120	100	3.6	1.25
+Nidoqueen	Poison	Ground	163	174	180	Poison Jab	POISON	10	7	0.8	1.25	Sludge Wave	POISON	110	100	3.2	1.25
+Nidoqueen	Poison	Ground	163	174	180	Poison Jab	POISON	10	7	0.8	1.25	Stone Edge	ROCK	100	100	2.3	1
+Nidoqueen	Poison	Ground	163	174	180	Bite	DARK	6	4	0.5	1	Earthquake	GROUND	120	100	3.6	1.25
+Nidoqueen	Poison	Ground	163	174	180	Bite	DARK	6	4	0.5	1	Sludge Wave	POISON	110	100	3.2	1.25
+Nidoqueen	Poison	Ground	163	174	180	Bite	DARK	6	4	0.5	1	Stone Edge	ROCK	100	100	2.3	1
+Nidoking	Poison	Ground	186	157	162	Poison Jab	POISON	10	7	0.8	1.25	Earthquake	GROUND	120	100	3.6	1.25
+Nidoking	Poison	Ground	186	157	162	Poison Jab	POISON	10	7	0.8	1.25	Sludge Wave	POISON	110	100	3.2	1.25
+Nidoking	Poison	Ground	186	157	162	Poison Jab	POISON	10	7	0.8	1.25	Megahorn	BUG	90	100	2.2	1
+Nidoking	Poison	Ground	186	157	162	Iron Tail	STEEL	15	7	1.1	1	Earthquake	GROUND	120	100	3.6	1.25
+Nidoking	Poison	Ground	186	157	162	Iron Tail	STEEL	15	7	1.1	1	Sludge Wave	POISON	110	100	3.2	1.25
+Nidoking	Poison	Ground	186	157	162	Iron Tail	STEEL	15	7	1.1	1	Megahorn	BUG	90	100	2.2	1
+Clefable	Fairy	None	161	170	190	Charge Beam	ELECTRIC	8	15	1.1	1	Dazzling Gleam	FAIRY	100	50	3.5	1.25
+Clefable	Fairy	None	161	170	190	Zen Headbutt	PSYCHIC	12	10	1.1	1	Dazzling Gleam	FAIRY	100	50	3.5	1.25
+Clefable	Fairy	None	161	170	190	Charge Beam	ELECTRIC	8	15	1.1	1	Moonblast	FAIRY	130	100	3.9	1.25
+Clefable	Fairy	None	161	170	190	Zen Headbutt	PSYCHIC	12	10	1.1	1	Moonblast	FAIRY	130	100	3.9	1.25
+Clefable	Fairy	None	161	170	190	Zen Headbutt	PSYCHIC	12	10	1.1	1	Psychic	PSYCHIC	100	100	2.8	1
+Clefable	Fairy	None	161	170	190	Charge Beam	ELECTRIC	8	15	1.1	1	Psychic	PSYCHIC	100	100	2.8	1
+Wigglytuff	Normal	Fairy	140	93	280	Pound	NORMAL	7	6	0.6	1.25	Hyper Beam	NORMAL	150	100	3.8	1.25
+Wigglytuff	Normal	Fairy	140	93	280	Pound	NORMAL	7	6	0.6	1.25	Play Rough	FAIRY	90	50	2.9	1.25
+Wigglytuff	Normal	Fairy	140	93	280	Pound	NORMAL	7	6	0.6	1.25	Dazzling Gleam	FAIRY	100	50	3.5	1.25
+Wigglytuff	Normal	Fairy	140	93	280	Feint Attack	DARK	10	9	0.9	1	Hyper Beam	NORMAL	150	100	3.8	1.25
+Wigglytuff	Normal	Fairy	140	93	280	Feint Attack	DARK	10	9	0.9	1	Play Rough	FAIRY	90	50	2.9	1.25
+Wigglytuff	Normal	Fairy	140	93	280	Feint Attack	DARK	10	9	0.9	1	Dazzling Gleam	FAIRY	100	50	3.5	1.25
+Vileplume	Grass	Poison	185	170	150	Acid	POISON	9	8	0.8	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Vileplume	Grass	Poison	185	170	150	Razor Leaf	GRASS	13	7	1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Vileplume	Grass	Poison	185	170	150	Acid	POISON	9	8	0.8	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Vileplume	Grass	Poison	185	170	150	Razor Leaf	GRASS	13	7	1	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Vileplume	Grass	Poison	185	170	150	Razor Leaf	GRASS	13	7	1	1.25	Moonblast	FAIRY	130	100	3.9	1
+Vileplume	Grass	Poison	185	170	150	Acid	POISON	9	8	0.8	1.25	Moonblast	FAIRY	130	100	3.9	1
+Poliwrath	Water	Fight	165	187	180	Bubble	WATER	12	14	1.2	1.25	Dynamic Punch	FIGHT	90	50	2.7	1.25
+Poliwrath	Water	Fight	165	187	180	Bubble	WATER	12	14	1.2	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Poliwrath	Water	Fight	165	187	180	Rock Smash	FIGHT	15	10	1.3	1.25	Dynamic Punch	FIGHT	90	50	2.7	1.25
+Poliwrath	Water	Fight	165	187	180	Rock Smash	FIGHT	15	10	1.3	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Poliwrath	Water	Fight	165	187	180	Bubble	WATER	12	14	1.2	1.25	Submission	FIGHT	60	50	2.2	1.25
+Poliwrath	Water	Fight	165	187	180	Rock Smash	FIGHT	15	10	1.3	1.25	Submission	FIGHT	60	50	2.2	1.25
+Poliwrath	Water	Fight	165	187	180	Rock Smash	FIGHT	15	10	1.3	1.25	Ice Punch	ICE	50	33	1.9	1
+Poliwrath	Water	Fight	165	187	180	Bubble	WATER	12	14	1.2	1.25	Ice Punch	ICE	50	33	1.9	1
+Alakazam	Psychic	None	271	174	110	Confusion	PSYCHIC	20	15	1.6	1.25	Futuresight	PSYCHIC	120	100	2.7	1.25
+Alakazam	Psychic	None	271	174	110	Psycho Cut	PSYCHIC	5	8	0.6	1.25	Futuresight	PSYCHIC	120	100	2.7	1.25
+Alakazam	Psychic	None	271	174	110	Confusion	PSYCHIC	20	15	1.6	1.25	Shadow Ball	GHOST	100	50	3	1
+Alakazam	Psychic	None	271	174	110	Confusion	PSYCHIC	20	15	1.6	1.25	Psychic	PSYCHIC	100	100	2.8	1.25
+Alakazam	Psychic	None	271	174	110	Confusion	PSYCHIC	20	15	1.6	1.25	Focus Blast	FIGHT	140	100	3.5	1
+Alakazam	Psychic	None	271	174	110	Confusion	PSYCHIC	20	15	1.6	1.25	Dazzling Gleam	FAIRY	100	50	3.5	1
+Alakazam	Psychic	None	271	174	110	Psycho Cut	PSYCHIC	5	8	0.6	1.25	Shadow Ball	GHOST	100	50	3	1
+Alakazam	Psychic	None	271	174	110	Psycho Cut	PSYCHIC	5	8	0.6	1.25	Focus Blast	FIGHT	140	100	3.5	1
+Alakazam	Psychic	None	271	174	110	Psycho Cut	PSYCHIC	5	8	0.6	1.25	Psychic	PSYCHIC	100	100	2.8	1.25
+Alakazam	Psychic	None	271	174	110	Psycho Cut	PSYCHIC	5	8	0.6	1.25	Dazzling Gleam	FAIRY	100	50	3.5	1
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Dynamic Punch	FIGHT	90	50	2.7	1.25
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Close Combat	FIGHT	100	100	2.3	1.25
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Cross Chop	FIGHT	50	50	1.5	1.25
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Dynamic Punch	FIGHT	90	50	2.7	1.25
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Submission	FIGHT	60	50	2.2	1.25
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Stone Edge	ROCK	100	100	2.3	1
+Machamp	Fight	None	234	162	180	Counter	FIGHT	12	8	0.9	1.25	Heavy Slam	STEEL	70	50	2.1	1
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Close Combat	FIGHT	100	100	2.3	1.25
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Cross Chop	FIGHT	50	50	1.5	1.25
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Submission	FIGHT	60	50	2.2	1.25
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Heavy Slam	STEEL	70	50	2.1	1
+Machamp	Fight	None	234	162	180	Bullet Punch	STEEL	9	10	0.9	1	Stone Edge	ROCK	100	100	2.3	1
+Victreebel	Grass	Poison	207	127	160	Acid	POISON	9	8	0.8	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Victreebel	Grass	Poison	207	127	160	Razor Leaf	GRASS	13	7	1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Victreebel	Grass	Poison	207	127	160	Acid	POISON	9	8	0.8	1.25	Leaf Blade	GRASS	70	33	2.4	1.25
+Victreebel	Grass	Poison	207	127	160	Acid	POISON	9	8	0.8	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Victreebel	Grass	Poison	207	127	160	Razor Leaf	GRASS	13	7	1	1.25	Leaf Blade	GRASS	70	33	2.4	1.25
+Victreebel	Grass	Poison	207	127	160	Razor Leaf	GRASS	13	7	1	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Golem	Rock	Ground	194	229	160	Rock Throw	ROCK	12	7	0.9	1.25	Stone Edge	ROCK	100	100	2.3	1.25
+Golem	Rock	Ground	194	229	160	Rock Throw	ROCK	12	7	0.9	1.25	Earthquake	GROUND	120	100	3.6	1.25
+Golem	Rock	Ground	194	229	160	Rock Throw	ROCK	12	7	0.9	1.25	Rock Blast	ROCK	50	33	2.1	1.25
+Golem	Rock	Ground	194	229	160	Rock Throw	ROCK	12	7	0.9	1.25	Ancient Power	ROCK	70	33	3.5	1.25
+Golem	Rock	Ground	194	229	160	Mud Slap	GROUND	15	12	1.4	1.25	Stone Edge	ROCK	100	100	2.3	1.25
+Golem	Rock	Ground	194	229	160	Mud Slap	GROUND	15	12	1.4	1.25	Earthquake	GROUND	120	100	3.6	1.25
+Golem	Rock	Ground	194	229	160	Mud Slap	GROUND	15	12	1.4	1.25	Rock Blast	ROCK	50	33	2.1	1.25
+Golem	Rock	Ground	194	229	160	Mud Slap	GROUND	15	12	1.4	1.25	Ancient Power	ROCK	70	33	3.5	1.25
+Gengar	Ghost	Poison	261	156	120	Hex	GHOST	10	15	1.2	1.25	Shadow Ball	GHOST	100	50	3	1.25
+Gengar	Ghost	Poison	261	156	120	Sucker Punch	DARK	7	8	0.7	1	Shadow Ball	GHOST	100	50	3	1.25
+Gengar	Ghost	Poison	261	156	120	Hex	GHOST	10	15	1.2	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Gengar	Ghost	Poison	261	156	120	Sucker Punch	DARK	7	8	0.7	1	Sludge Bomb	POISON	80	50	2.3	1.25
+Gengar	Ghost	Poison	261	156	120	Hex	GHOST	10	15	1.2	1.25	Sludge Wave	POISON	110	100	3.2	1.25
+Gengar	Ghost	Poison	261	156	120	Hex	GHOST	10	15	1.2	1.25	Focus Blast	FIGHT	140	100	3.5	1
+Gengar	Ghost	Poison	261	156	120	Sucker Punch	DARK	7	8	0.7	1	Sludge Wave	POISON	110	100	3.2	1.25
+Gengar	Ghost	Poison	261	156	120	Sucker Punch	DARK	7	8	0.7	1	Focus Blast	FIGHT	140	100	3.5	1
+Gengar	Ghost	Poison	261	156	120	Hex	GHOST	10	15	1.2	1.25	Dark Pulse	DARK	80	50	3	1
+Gengar	Ghost	Poison	261	156	120	Sucker Punch	DARK	7	8	0.7	1	Dark Pulse	DARK	80	50	3	1
+Dragonite	Dragon	Flying	262	201	182	Dragon Tail	DRAGON	15	9	1.1	1.25	Outrage	DRAGON	110	50	3.9	1.25
+Dragonite	Dragon	Flying	262	201	182	Dragon Tail	DRAGON	15	9	1.1	1.25	Hurricane	FLYING	110	100	2.7	1.25
+Dragonite	Dragon	Flying	262	201	182	Dragon Tail	DRAGON	15	9	1.1	1.25	Dragon Claw	DRAGON	50	33	1.7	1.25
+Dragonite	Dragon	Flying	262	201	182	Dragon Tail	DRAGON	15	9	1.1	1.25	Hyper Beam	NORMAL	150	100	3.8	1
+Dragonite	Dragon	Flying	262	201	182	Dragon Tail	DRAGON	15	9	1.1	1.25	Dragon Pulse	DRAGON	90	50	3.6	1.25
+Dragonite	Dragon	Flying	262	201	182	Steel Wing	STEEL	11	6	0.8	1	Outrage	DRAGON	110	50	3.9	1.25
+Dragonite	Dragon	Flying	262	201	182	Steel Wing	STEEL	11	6	0.8	1	Dragon Claw	DRAGON	50	33	1.7	1.25
+Dragonite	Dragon	Flying	262	201	182	Steel Wing	STEEL	11	6	0.8	1	Hurricane	FLYING	110	100	2.7	1.25
+Dragonite	Dragon	Flying	262	201	182	Steel Wing	STEEL	11	6	0.8	1	Dragon Pulse	DRAGON	90	50	3.6	1.25
+Dragonite	Dragon	Flying	262	201	182	Steel Wing	STEEL	11	6	0.8	1	Hyper Beam	NORMAL	150	100	3.8	1
+Meganium	Grass	None	167	202	160	Vine Whip	GRASS	7	6	0.6	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Meganium	Grass	None	167	202	160	Razor Leaf	GRASS	13	7	1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Meganium	Grass	None	167	202	160	Vine Whip	GRASS	7	6	0.6	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Meganium	Grass	None	167	202	160	Razor Leaf	GRASS	13	7	1	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Meganium	Grass	None	167	202	160	Razor Leaf	GRASS	13	7	1	1.25	Earthquake	GROUND	120	100	3.6	1
+Meganium	Grass	None	167	202	160	Vine Whip	GRASS	7	6	0.6	1.25	Earthquake	GROUND	120	100	3.6	1
+Typhlosion	Fire	None	222	177	156	Ember	FIRE	10	10	1	1.25	Overheat	FIRE	160	100	4	1.25
+Typhlosion	Fire	None	222	177	156	Shadow Claw	GHOST	9	6	0.7	1	Overheat	FIRE	160	100	4	1.25
+Typhlosion	Fire	None	222	177	156	Ember	FIRE	10	10	1	1.25	Fire Blast	FIRE	140	100	4.2	1.25
+Typhlosion	Fire	None	222	177	156	Shadow Claw	GHOST	9	6	0.7	1	Fire Blast	FIRE	140	100	4.2	1.25
+Typhlosion	Fire	None	222	177	156	Ember	FIRE	10	10	1	1.25	Solar Beam	GRASS	180	100	4.9	1
+Typhlosion	Fire	None	222	177	156	Shadow Claw	GHOST	9	6	0.7	1	Solar Beam	GRASS	180	100	4.9	1
+Feraligatr	Water	None	205	197	170	Water Gun	WATER	5	5	0.5	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Feraligatr	Water	None	205	197	170	Bite	DARK	6	4	0.5	1	Hydro Pump	WATER	130	100	3.3	1.25
+Feraligatr	Water	None	205	197	170	Water Gun	WATER	5	5	0.5	1.25	Ice Beam	ICE	90	50	3.3	1
+Feraligatr	Water	None	205	197	170	Bite	DARK	6	4	0.5	1	Ice Beam	ICE	90	50	3.3	1
+Feraligatr	Water	None	205	197	170	Water Gun	WATER	5	5	0.5	1.25	Crunch	DARK	70	33	3.2	1
+Feraligatr	Water	None	205	197	170	Bite	DARK	6	4	0.5	1	Crunch	DARK	70	33	3.2	1
+Crobat	Poison	Flying	194	178	170	Air Slash	FLYING	14	10	1.2	1.25	Sludge Bomb	POISON	80	50	2.3	1.25
+Crobat	Poison	Flying	194	178	170	Air Slash	FLYING	14	10	1.2	1.25	Shadow Ball	GHOST	100	50	3	1
+Crobat	Poison	Flying	194	178	170	Bite	DARK	6	4	0.5	1	Sludge Bomb	POISON	80	50	2.3	1.25
+Crobat	Poison	Flying	194	178	170	Bite	DARK	6	4	0.5	1	Shadow Ball	GHOST	100	50	3	1
+Crobat	Poison	Flying	194	178	170	Air Slash	FLYING	14	10	1.2	1.25	Air Cutter	FLYING	60	50	2.7	1.25
+Crobat	Poison	Flying	194	178	170	Bite	DARK	6	4	0.5	1	Air Cutter	FLYING	60	50	2.7	1.25
+Ampharos	Electric	None	211	169	180	Charge Beam	ELECTRIC	8	15	1.1	1.25	Zap Cannon	ELECTRIC	140	100	3.7	1.25
+Ampharos	Electric	None	211	169	180	Volt Switch	ELECTRIC	20	25	2.3	1.25	Zap Cannon	ELECTRIC	140	100	3.7	1.25
+Ampharos	Electric	None	211	169	180	Charge Beam	ELECTRIC	8	15	1.1	1.25	Thunder	ELECTRIC	100	100	2.4	1.25
+Ampharos	Electric	None	211	169	180	Volt Switch	ELECTRIC	20	25	2.3	1.25	Thunder	ELECTRIC	100	100	2.4	1.25
+Ampharos	Electric	None	211	169	180	Charge Beam	ELECTRIC	8	15	1.1	1.25	Focus Blast	FIGHT	140	100	3.5	1
+Ampharos	Electric	None	211	169	180	Volt Switch	ELECTRIC	20	25	2.3	1.25	Focus Blast	FIGHT	140	100	3.5	1
+Bellossom	Grass	None	169	186	150	Razor Leaf	GRASS	13	7	1	1.25	Leaf Blade	GRASS	70	33	2.4	1.25
+Bellossom	Grass	None	169	186	150	Razor Leaf	GRASS	13	7	1	1.25	Petal Blizzard	GRASS	110	100	2.6	1.25
+Bellossom	Grass	None	169	186	150	Acid	POISON	9	8	0.8	1	Leaf Blade	GRASS	70	33	2.4	1.25
+Bellossom	Grass	None	169	186	150	Razor Leaf	GRASS	13	7	1	1.25	Dazzling Gleam	FAIRY	100	50	3.5	1
+Bellossom	Grass	None	169	186	150	Acid	POISON	9	8	0.8	1	Petal Blizzard	GRASS	110	100	2.6	1.25
+Bellossom	Grass	None	169	186	150	Acid	POISON	9	8	0.8	1	Dazzling Gleam	FAIRY	100	50	3.5	1
+Politoed	Water	None	174	192	180	Bubble	WATER	12	14	1.2	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Politoed	Water	None	174	192	180	Bubble	WATER	12	14	1.2	1.25	Blizzard	ICE	130	100	3.1	1
+Politoed	Water	None	174	192	180	Mud Shot	GROUND	5	7	0.6	1	Hydro Pump	WATER	130	100	3.3	1.25
+Politoed	Water	None	174	192	180	Bubble	WATER	12	14	1.2	1.25	Earthquake	GROUND	120	100	3.6	1
+Politoed	Water	None	174	192	180	Mud Shot	GROUND	5	7	0.6	1	Blizzard	ICE	130	100	3.1	1
+Politoed	Water	None	174	192	180	Mud Shot	GROUND	5	7	0.6	1	Earthquake	GROUND	120	100	3.6	1
+Jumpluff	Grass	Flying	118	178	150	Infestation	BUG	10	14	1.1	1	Solar Beam	GRASS	180	100	4.9	1.25
+Jumpluff	Grass	Flying	118	178	150	Bullet Seed	GRASS	8	14	1.1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
+Jumpluff	Grass	Flying	118	178	150	Infestation	BUG	10	14	1.1	1	Energy Ball	GRASS	90	50	3.9	1.25
+Jumpluff	Grass	Flying	118	178	150	Bullet Seed	GRASS	8	14	1.1	1.25	Energy Ball	GRASS	90	50	3.9	1.25
+Jumpluff	Grass	Flying	118	178	150	Infestation	BUG	10	14	1.1	1	Dazzling Gleam	FAIRY	100	50	3.5	1
+Jumpluff	Grass	Flying	118	178	150	Bullet Seed	GRASS	8	14	1.1	1.25	Dazzling Gleam	FAIRY	100	50	3.5	1
+Kingdra	Water	Dragon	194	194	150	Dragon Breath	DRAGON	6	4	0.5	1.25	Outrage	DRAGON	110	50	3.9	1.25
+Kingdra	Water	Dragon	194	194	150	Water Gun	WATER	5	5	0.5	1.25	Outrage	DRAGON	110	50	3.9	1.25
+Kingdra	Water	Dragon	194	194	150	Dragon Breath	DRAGON	6	4	0.5	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Kingdra	Water	Dragon	194	194	150	Water Gun	WATER	5	5	0.5	1.25	Hydro Pump	WATER	130	100	3.3	1.25
+Kingdra	Water	Dragon	194	194	150	Dragon Breath	DRAGON	6	4	0.5	1.25	Blizzard	ICE	130	100	3.1	1
+Kingdra	Water	Dragon	194	194	150	Water Gun	WATER	5	5	0.5	1.25	Blizzard	ICE	130	100	3.1	1
+Tyranitar	Rock	Dark	251	211	200	Bite	DARK	6	4	0.5	1.25	Stone Edge	ROCK	100	100	2.3	1.25
+Tyranitar	Rock	Dark	251	211	200	Bite	DARK	6	4	0.5	1.25	Crunch	DARK	70	33	3.2	1.25
+Tyranitar	Rock	Dark	251	211	200	Bite	DARK	6	4	0.5	1.25	Fire Blast	FIRE	140	100	4.2	1
+Tyranitar	Rock	Dark	251	211	200	Iron Tail	STEEL	15	7	1.1	1	Crunch	DARK	70	33	3.2	1.25
+Tyranitar	Rock	Dark	251	211	200	Iron Tail	STEEL	15	7	1.1	1	Stone Edge	ROCK	100	100	2.3	1.25
+Tyranitar	Rock	Dark	251	211	200	Iron Tail	STEEL	15	7	1.1	1	Fire Blast	FIRE	140	100	4.2	1
+
