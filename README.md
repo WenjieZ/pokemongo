@@ -10,7 +10,7 @@ This repo is Python 3 and depends on the following package:
 - pandas
 
 ## Usage
-```python
+```shell
 $ python pokemongo.py
 ```
 
