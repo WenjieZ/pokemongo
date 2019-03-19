@@ -1,0 +1,18 @@
+--------Attack List---------
+,Name,Type1,Type2,Atk,Def,Sta,Fast,Type_F,Power1,Energy1,Time1,Stab1,Charge,Type_C,Power2,Energy2,Time2,Stab2,Final,Weight
+Mewtwo,Mewtwo,Psychic,Empty,345,215,250,Confusion,Psychic,20.0,15.0,1.6,1.2,Shadow Ball,Ghost,100.0,50.0,3.0,1,1.0,0.3219797420257975
+Gardevoir,Gardevoir,Psychic,Fairy,252,210,184,Confusion,Psychic,20.0,15.0,1.6,1.2,Dazzling Gleam,Fairy,100.0,50.0,3.5,1.2,1.0,0.06521771822817696
+Sharpedo,Sharpedo,Water,Dark,258,98,187,Bite,Dark,6.0,4.0,0.5,1.2,Hydro Pump,Water,130.0,100.0,3.3,1.2,1.0,0.02612020797920211
+Cacturne,Cacturne,Grass,Dark,236,130,187,Sucker Punch,Dark,7.0,8.0,0.7,1.2,Grass Knot,Grass,90.0,50.0,2.6,1.2,1.0,0.0963364663533647
+Absol,Absol,Dark,Empty,261,135,178,Snarl,Dark,12.0,12.0,1.1,1.2,Dark Pulse,Dark,80.0,50.0,3.0,1.2,1.0,0.14647727227277285
+Rayquaza,Rayquaza,Dragon,Flying,327,202,248,Dragon Tail,Dragon,15.0,9.0,1.1,1.2,Outrage,Dragon,110.0,50.0,3.9,1.2,1.0,0.2211929807019296
+Deoxys-Attack,Deoxys-Attack,Psychic,Empty,429,61,152,Zen Headbutt,Psychic,12.0,10.0,1.1,1.2,Zap Cannon,Electric,140.0,100.0,3.7,1,1.0,0.12224985501449843
+--------Defend List---------
+,Name,Type1,Type2,Atk,Def,Sta,Fast,Type_F,Power1,Energy1,Time1,Stab1,Charge,Type_C,Power2,Energy2,Time2,Stab2,Final,Weight
+Mewtwo,Mewtwo,Psychic,Empty,345,215,250,Confusion,Psychic,20.0,15.0,1.6,1.2,Shadow Ball,Ghost,100.0,50.0,3.0,1,1.0,0.27387167283271824
+Tyranitar,Tyranitar,Rock,Dark,266,222,240,Iron Tail,Steel,15.0,7.0,1.1,1,Crunch,Dark,70.0,33.3333333333333,3.2,1.2,1.0,0.021851174882511794
+Slaking,Slaking,Normal,Empty,334,198,327,Yawn,Normal,0.0,15.0,1.7,1.2,Play Rough,Fairy,90.0,50.0,2.9,1,1.0,0.012846415358464154
+Kyogre,Kyogre,Water,Empty,312,265,240,Waterfall,Water,16.0,8.0,1.2,1.2,Blizzard,Ice,130.0,100.0,3.1,1,1.0,0.2312920307969197
+Groudon,Groudon,Ground,Empty,312,265,240,Dragon Tail,Dragon,15.0,9.0,1.1,1,Solar Beam,Grass,180.0,100.0,4.9,1,1.0,0.2154089991000905
+Rayquaza,Rayquaza,Dragon,Flying,327,202,248,Dragon Tail,Dragon,15.0,9.0,1.1,1.2,Outrage,Dragon,110.0,50.0,3.9,1.2,1.0,0.13795920407959172
+Rayquaza,Rayquaza,Dragon,Flying,327,202,248,Air Slash,Flying,14.0,10.0,1.2,1.2,Outrage,Dragon,110.0,50.0,3.9,1.2,1.0,0.10676744325567429

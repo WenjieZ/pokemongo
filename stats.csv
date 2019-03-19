@@ -1,4 +1,4 @@
-Name	Type1	Type2	Atk	Def	Sta	Quick	Type_Q	Power1	Energy1	Time1	Stab1	Charge	Type_C	Power2	Energy2	Time2	Stab2
+Name	Type1	Type2	Atk	Def	Sta	Fast	Type_F	Power1	Energy1	Time1	Stab1	Charge	Type_C	Power2	Energy2	Time2	Stab2
 Venusaur	Grass	Poison	197	198	160	Vine Whip	GRASS	7	6	0.6	1.25	Solar Beam	GRASS	180	100	4.9	1.25
 Venusaur	Grass	Poison	197	198	160	Razor Leaf	GRASS	13	7	1	1.25	Solar Beam	GRASS	180	100	4.9	1.25
 Venusaur	Grass	Poison	197	198	160	Vine Whip	GRASS	7	6	0.6	1.25	Sludge Bomb	POISON	80	50	2.3	1.25

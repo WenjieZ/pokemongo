@@ -1,0 +1,18 @@
+--------Attack List---------
+,Name,Type1,Type2,Atk,Def,Sta,Fast,Type_F,Power1,Energy1,Time1,Stab1,Charge,Type_C,Power2,Energy2,Time2,Stab2,Final,Weight
+Mewtwo,Mewtwo,Psychic,Empty,345,215,250,Psycho Cut,Psychic,5.0,8.0,0.6,1.2,Shadow Ball,Ghost,100.0,50.0,3.0,1,1.0,0.12574488551144855
+Tyranitar,Tyranitar,Rock,Dark,266,222,240,Bite,Dark,6.0,4.0,0.5,1.2,Stone Edge,Rock,100.0,100.0,2.3,1.2,1.0,0.017604999500050043
+Tyranitar,Tyranitar,Rock,Dark,266,222,240,Bite,Dark,6.0,4.0,0.5,1.2,Crunch,Dark,70.0,33.3333333333333,3.2,1.2,1.0,0.12261771822817782
+Kyogre,Kyogre,Water,Empty,312,265,240,Waterfall,Water,16.0,8.0,1.2,1.2,Thunder,Electric,100.0,100.0,2.4,1,1.0,0.2488264773522651
+Kyogre,Kyogre,Water,Empty,312,265,240,Waterfall,Water,16.0,8.0,1.2,1.2,Blizzard,Ice,130.0,100.0,3.1,1,1.0,0.21967461253874634
+Groudon,Groudon,Ground,Empty,312,265,240,Dragon Tail,Dragon,15.0,9.0,1.1,1,Solar Beam,Grass,180.0,100.0,4.9,1,1.0,0.12955660433956606
+Rayquaza,Rayquaza,Dragon,Flying,327,202,248,Dragon Tail,Dragon,15.0,9.0,1.1,1.2,Outrage,Dragon,110.0,50.0,3.9,1.2,1.0,0.1348196980301969
+--------Defend List---------
+,Name,Type1,Type2,Atk,Def,Sta,Fast,Type_F,Power1,Energy1,Time1,Stab1,Charge,Type_C,Power2,Energy2,Time2,Stab2,Final,Weight
+Mewtwo,Mewtwo,Psychic,Empty,345,215,250,Confusion,Psychic,20.0,15.0,1.6,1.2,Focus Blast,Fighting,140.0,100.0,3.5,1,1.0,0.01713524647535252
+Mewtwo,Mewtwo,Psychic,Empty,345,215,250,Confusion,Psychic,20.0,15.0,1.6,1.2,Shadow Ball,Ghost,100.0,50.0,3.0,1,1.0,0.42337562243775656
+Ho-Oh,Ho-Oh,Fire,Flying,278,283,250,Extrasensory,Psychic,12.0,12.0,1.1,1,Solar Beam,Grass,180.0,100.0,4.9,1,1.0,0.03617004299570036
+Kyogre,Kyogre,Water,Empty,312,265,240,Waterfall,Water,16.0,8.0,1.2,1.2,Thunder,Electric,100.0,100.0,2.4,1,1.0,0.21770364963503622
+Kyogre,Kyogre,Water,Empty,312,265,240,Waterfall,Water,16.0,8.0,1.2,1.2,Blizzard,Ice,130.0,100.0,3.1,1,1.0,0.11077030296970274
+Groudon,Groudon,Ground,Empty,312,265,240,Dragon Tail,Dragon,15.0,9.0,1.1,1,Solar Beam,Grass,180.0,100.0,4.9,1,1.0,0.07118474152584751
+Rayquaza,Rayquaza,Dragon,Flying,327,202,248,Dragon Tail,Dragon,15.0,9.0,1.1,1.2,Outrage,Dragon,110.0,50.0,3.9,1.2,1.0,0.12307917208279125
