@@ -11,7 +11,7 @@ This repo is Python 3 and depends on the following package:
 - xlrd
 
 ## Usage
-```python
+```shell
 $ python pokemongo.py
 ```
 
