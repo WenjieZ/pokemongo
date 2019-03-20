@@ -7,7 +7,7 @@ This practice allows you to concentrate your resources on few Pokémon and build
 ## Dependencies
 This repo is Python 3 and depends on the following package:
 - numpy
-- pandas 0.23
+- pandas <=v0.23 (v0.24 won't work)
 - xlrd
 
 ## Usage
@@ -15,10 +15,13 @@ This repo is Python 3 and depends on the following package:
 $ python pokemongo.py
 ```
 
-The execution takes 30-60 mins depending on your device. 
 The results is stored in the `metalist.txt` file by default.
 
 A Jupyter notebook with the same name is provided as the demo.
+
+## Branches
+- **master**: timeout as win condition in gym battles
+- **raid**: boss raid
 
 ## Acknowledgement
 The dataset is contributed by Reddit user [UW_Unknown_Warrior](https://www.reddit.com/user/UW_Unknown_Warrior).
