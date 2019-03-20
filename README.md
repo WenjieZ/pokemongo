@@ -15,7 +15,7 @@ $ python pokemongo.py
 ```
 
 The execution takes 30-60 mins depending on your device. 
-The results is stored in the `metalist.csv` file by default.
+The results is stored in the `metalist.txt` file by default.
 
 A Jupyter notebook with the same name is provided as the demo.
 

@@ -1,0 +1,10 @@
+--------Attack List---------
+,Name,Type1,Type2,Atk,Def,Sta,Fast,Type_F,Power1,Energy1,Time1,Stab1,Charge,Type_C,Power2,Energy2,Time2,Stab2,Final,Weight
+Blaziken,Blaziken,Fire,Fighting,255,156,205,Counter,Fighting,12.0,8.0,0.9,1.2,Overheat,Fire,160.0,100.0,4.0,1.2,1.0,0.6255400859914002
+Breloom,Breloom,Grass,Fighting,256,159,170,Counter,Fighting,12.0,8.0,0.9,1.2,Dynamic Punch,Fighting,90.0,50.0,2.7,1.2,1.0,0.25482275772422786
+Salamence,Salamence,Dragon,Flying,292,183,231,Dragon Tail,Dragon,15.0,9.0,1.1,1.2,Draco Meteor,Dragon,150.0,100.0,3.6,1.2,1.0,0.11963125687431261
+--------Defend List---------
+Name,Final,Type1,Type2,Atk,Def,Sta,Weight
+Dragonite,1,Dragon,Flying,278,213,224,0.232470792920709
+Blissey,1,Normal,Empty,144,184,511,0.6070773522647717
+Gardevoir,1,Psychic,Fairy,252,210,184,0.16045071492850704
