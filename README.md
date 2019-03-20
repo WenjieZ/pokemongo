@@ -7,7 +7,8 @@ This practice allows you to concentrate your resources on few Pokémon and build
 ## Dependencies
 This repo is Python 3 and depends on the following package:
 - numpy
-- pandas
+- pandas 0.23
+- xlrd
 
 ## Usage
 ```python
