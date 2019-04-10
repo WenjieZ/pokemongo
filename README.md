@@ -1,5 +1,5 @@
 # Pokemon GO
-Using Nash Equlibrium to build minimal PvE lists for Pokémon GO.
+Using Nash Equlibrium to build minimalist PvE lists for Pokémon GO.
 
 This repo uses the Nash Equilibrium to build a minimalist PvE list for Pokémon GO: With few Pokémon, you are able to seize all gyms and defend against all gym invaders. 
 This practice allows you to concentrate your resources on few Pokémon and build an all-round strong team.
